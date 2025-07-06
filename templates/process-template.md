@@ -1,4 +1,4 @@
-# Company: [Company Name]
+# Company: [LYXA.AI]
 
 ## Interview Rounds:
 1. [Round 1 Description]
